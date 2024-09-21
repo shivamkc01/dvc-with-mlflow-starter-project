@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/shivam/ZenML-code/mlruns/757682675199285860/78770fe9afac4268a3a50bb70bef5cea/artifacts
+end_time: 1726926775349
+entry_point_name: ''
+experiment_id: '757682675199285860'
+lifecycle_stage: active
+run_id: 78770fe9afac4268a3a50bb70bef5cea
+run_name: grandiose-mouse-305
+run_uuid: 78770fe9afac4268a3a50bb70bef5cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726926775098
+status: 3
+tags: []
+user_id: Shivam

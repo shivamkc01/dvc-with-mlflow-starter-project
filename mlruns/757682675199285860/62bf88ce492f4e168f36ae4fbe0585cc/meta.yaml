@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/shivam/ZenML-code/mlruns/757682675199285860/62bf88ce492f4e168f36ae4fbe0585cc/artifacts
+end_time: 1726927211454
+entry_point_name: ''
+experiment_id: '757682675199285860'
+lifecycle_stage: active
+run_id: 62bf88ce492f4e168f36ae4fbe0585cc
+run_name: unequaled-mule-329
+run_uuid: 62bf88ce492f4e168f36ae4fbe0585cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726927206122
+status: 3
+tags: []
+user_id: Shivam

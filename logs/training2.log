@@ -1,0 +1,10 @@
+2024-09-21 19:30:41,499 INFO Starting the training process...
+2024-09-21 19:30:41,499 INFO Reading data from DVC...
+2024-09-21 19:30:41,515 INFO Data loaded successfully. Shape: (599, 12)
+2024-09-21 19:30:42,187 INFO Training the ElasticNet model...
+2024-09-21 19:30:42,203 INFO Model training completed.
+2024-09-21 19:30:42,203 INFO ElasticNet model (alpha=0.5, l1_ratio=0.5):
+2024-09-21 19:30:42,203 INFO   RMSE: 0.8041935559229328
+2024-09-21 19:30:42,203 INFO   MAE: 0.6348569131708708
+2024-09-21 19:30:42,203 INFO   R2: 0.1008796529764362
+2024-09-21 19:30:47,234 INFO Model saved in run 3435d932e0ef47c0af1b6c71ff096d8e

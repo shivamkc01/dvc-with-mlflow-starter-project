@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/shivam/ZenML-code/mlruns/757682675199285860/3435d932e0ef47c0af1b6c71ff096d8e/artifacts
+end_time: 1726927247234
+entry_point_name: ''
+experiment_id: '757682675199285860'
+lifecycle_stage: active
+run_id: 3435d932e0ef47c0af1b6c71ff096d8e
+run_name: worried-bat-434
+run_uuid: 3435d932e0ef47c0af1b6c71ff096d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726927242136
+status: 3
+tags: []
+user_id: Shivam

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/shivam/ZenML-code/mlruns/757682675199285860/3ae784c960a543cd99c72ab9b3fbd032/artifacts
+end_time: 1726927031513
+entry_point_name: ''
+experiment_id: '757682675199285860'
+lifecycle_stage: active
+run_id: 3ae784c960a543cd99c72ab9b3fbd032
+run_name: gentle-deer-348
+run_uuid: 3ae784c960a543cd99c72ab9b3fbd032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726927025398
+status: 3
+tags: []
+user_id: Shivam
